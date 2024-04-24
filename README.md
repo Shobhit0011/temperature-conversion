@@ -13,7 +13,7 @@ This project is a simple web application that allows users to convert temperatur
 - **Responsive Design**: The page adapts to different screen sizes, ensuring a consistent experience across devices.
 
 ## Preview
-<a href="https/shobhit0011.github.io/temperature-conversion/">
+<a href="https://shobhit0011.github.io/temperature-conversion/">
 !Temperature Conversion</a>
 
 ## Getting Started
